@@ -1,0 +1,17 @@
+<li class="si">
+<img src="甘雨/see.png" alt="" width="100%">
+<h3>但愿君心似我心,定不负相思意</h3>
+</li>
+<li class="wu"><img src="甘雨/shy.png" alt="" width="100%">
+<h3>最是那一惊讶的温柔,像一朵清心不胜凉风的娇羞</h3></li>
+<li class="liu">
+<img src="甘雨/look.jpg" alt="" width="100%">
+<h3>只缘感君一回顾,使我思君朝与暮</h3>
+</li>
+<li class="qi">
+<img src="甘雨/dance.jpg" alt="" width="100%">
+<h3>眉梢眼角藏秀气,声音笑貌露温柔</h3>
+</li>
+<li class="ba"><img src="甘雨/spring.jpg" alt="" width="100%">
+<h3>桃夭不及美人妆,水殿风来珠翠香</h3>
+</li>
